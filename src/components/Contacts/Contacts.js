@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+import React, { useContext } from "react";
 // import { Snackbar, IconButton, SnackbarContent } from "@material-ui/core";
 // import CloseIcon from "@material-ui/icons/Close";
 // import axios from "axios";
@@ -21,7 +21,7 @@ import { contactsData } from "../../data/contactsData";
 import "./Contacts.css";
 
 function Contacts() {
-  const [open, setOpen] = useState(false);
+  // const [open, setOpen] = useState(false);
 
   // const [name, setName] = useState("");
   // const [email, setEmail] = useState("");
@@ -32,13 +32,13 @@ function Contacts() {
 
   const { theme } = useContext(ThemeContext);
 
-  const handleClose = (event, reason) => {
-    if (reason === "clickaway") {
-      return;
-    }
+  // const handleClose = (event, reason) => {
+  //   if (reason === "clickaway") {
+  //     return;
+  //   }
 
-    setOpen(false);
-  };
+  //   setOpen(false);
+  // };
 
   const useStyles = makeStyles((t) => ({
     input: {

@@ -125,7 +125,7 @@
   justify-content: space-evenly;
   flex: 0.6;
   box-sizing: border-box;
-  padding-left: 2rem;
+  padding-left: 7rem;
   margin-top: 0.1rem;
 }
 
@@ -139,7 +139,7 @@
 }
 
 .personal-details p {
-  margin-left: 1.5rem;
+  margin-left: 1rem;
   font-size: 18px;
   line-height: 110%;
   font-weight: 500;
@@ -156,7 +156,7 @@
   justify-content: center;
   gap: 1.5rem;
   margin-top: 3rem;
-  margin-left: 13em;
+  margin-left: 9em;
 }
 
 @media (min-width: 992px) and (max-width: 1380px) {
@@ -271,7 +271,7 @@
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 2/3) {
   .contacts-details {
-    padding-left: 0rem;
+    padding-left: 5rem;
     padding: 0rem;
   }
   .socialmedia-icons {

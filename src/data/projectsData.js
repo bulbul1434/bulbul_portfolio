@@ -45,7 +45,7 @@ export const projectsData = [
       "Developed an interactive card game using ReactJS. The game involves matching pairs of cards and includes features like shuffling, flipping, and tracking the player’s score. This project helped in understanding state management and event handling in React.",
     tags: ["ReactJS"],
     code: "https://github.com/bulbul1434/Games",
-    demo: " ",
+    demo: "https://cards-moving-game.netlify.app/",
     image: CardGame,
   },
   {

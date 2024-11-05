@@ -23,7 +23,7 @@ export const projectsData = [
     "Developed a comprehensive portfolio, showcasing my projects, education, contact information, and resume. This portfolio highlights my technical skills, achievements, and professional experience in a visually appealing and interactive manner.",
     tags: ["React.JS"],
     code: "https://github.com/bulbul1434/",
-    demo: " ",
+    demo: "https://bulbul-portfolio1.netlify.app",
     image: portfolio,
   },
   
@@ -45,7 +45,7 @@ export const projectsData = [
       "Developed an interactive card game using ReactJS. The game involves matching pairs of cards and includes features like shuffling, flipping, and tracking the player’s score. This project helped in understanding state management and event handling in React.",
     tags: ["ReactJS"],
     code: "https://github.com/bulbul1434/Games",
-    demo: " ",
+    demo: " cards-moving-game.netlify.app",
     image: CardGame,
   },
   {

@@ -15,7 +15,7 @@
 }
 
 .landing--img {
-  --img-size: 400px;
+  --img-size: 340px;
   position: absolute;
   left: 35%;
   transform: translateX(-50%);

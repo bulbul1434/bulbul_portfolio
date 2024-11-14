@@ -33,8 +33,8 @@ export const projectsData = [
     projectDesc:
     "•	Designed and developed a responsive music player card. Embedded Spotify playlist for real-time music playback. Implemented a separate song search function allowing users to find and play songs. Playback controls: play, pause, next, previous, and like options.",
     tags: ["HTML, CSS, JavaScript and Spotify API"],
-    code: "https://github.com/bulbul1434/",
-    demo: " ",
+    code: "https://github.com/bulbul1434/Music-Player",
+    demo: "https://musician-player.netlify.app ",
     image: MusicPlayerCard,
   },
 

@@ -26,7 +26,7 @@ export const projectsData = [
     demo: " ",
     image: portfolio,
   },
-  
+   
   {
     id: 3,
     projectName: "Music Player Card",

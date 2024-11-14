@@ -45,7 +45,7 @@ export const projectsData = [
       "Developed an interactive card game using ReactJS. The game involves matching pairs of cards and includes features like shuffling, flipping, and tracking the player’s score. This project helped in understanding state management and event handling in React.",
     tags: ["ReactJS"],
     code: "https://github.com/bulbul1434/Games",
-    demo: "https://cards-moving-game.netlify.app/",
+    demo: "https://cards-moving-game.netlify.app",
     image: CardGame,
   },
   {
@@ -54,8 +54,8 @@ export const projectsData = [
     projectDesc:
       "Created an interactive “Rock Paper Scissors” game using HTML, CSS, and JavaScript. This project highlights my skills in JavaScript programming, DOM manipulation, and responsive web design.",
     tags: ["HTML, CSS, and JavaScript"],
-    code: "https://github.com/bulbul1434/Games",
-    demo: "https://rocks-paperss.netlify.app/",
+    code: "https://github.com/bulbul1434/Rock-Paper-Scissors",
+    demo: "https://rocks-paperr-scissors.netlify.app",
     image:  RockPaperScissors,
   },
   // {

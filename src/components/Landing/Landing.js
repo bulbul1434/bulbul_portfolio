@@ -57,7 +57,7 @@ function Landing() {
         backgroundColor: theme.secondary,
         color: theme.tertiary,
         border: `3px solid ${theme.tertiary}`,
-      },
+      }, 
       [t.breakpoints.down("sm")]: {
         display: "none",
       },

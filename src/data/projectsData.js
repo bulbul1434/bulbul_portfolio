@@ -3,7 +3,7 @@ import portfolio from "../assets/png/Project/portfoilo.png";
 import MusicPlayerCard from "../assets/png/Project/MusicPlayer.jpg";
 import CardGame from "../assets/png/Project/Card Game.png";
 import RockPaperScissors from "../assets/png/Project/Rock Paper Scissors.png";
-// import DoctorzBook from "../assets/png/Project/DoctorzBook.png";
+import weatherplatforms from "../assets/png/Project/weatherplatforms.png";
 export const projectsData = [
   {
     id: 1,
@@ -23,7 +23,7 @@ export const projectsData = [
     "Developed a comprehensive portfolio, showcasing my projects, education, contact information, and resume. This portfolio highlights my technical skills, achievements, and professional experience in a visually appealing and interactive manner.",
     tags: ["React.JS"],
     code: "https://github.com/bulbul1434/",
-    demo: " ",
+    demo: " https://bulbul-portfolio1.netlify.app",
     image: portfolio,
   },
    
@@ -58,16 +58,16 @@ export const projectsData = [
     demo: "https://rocks-paperr-scissors.netlify.app",
     image:  RockPaperScissors,
   },
-  // {
-  //   id: 6,
-  //   projectName: "Doctorz Book",
-  //   projectDesc:
-  //     "Developed a real-time appointment booking application featuring Real-time Bookings, Find Doctors Nearby, No Conflicting Reservations, and Easy Cancellations. The site includes authentication, a dashboard listing doctors.",
-  //   tags: ["React.js, Redux, Node.js, Express.js, MongoDB, SCSS"],
-  //   code: "https://github.com/bulbul1434/",
-  //   demo: "https://doctorzbook.netlify.app/",
-  //   image: DoctorzBook,
-  // },
+  {
+    id: 6,
+    projectName: "weather-platforms",
+    projectDesc:
+      "Weather platforms give real-time updates and forecasts. They alert users to current and future weather conditions.",
+    tags: ["HTML, CSS, and JavaScript"],
+    code: "https://github.com/bulbul1434/",
+    demo: "https://weather-platforms.netlify.app",
+    image: weatherplatforms,
+  },
 ];
 
 // Do not remove any fields.

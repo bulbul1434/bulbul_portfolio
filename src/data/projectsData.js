@@ -3,7 +3,7 @@ import portfolio from "../assets/png/Project/portfoilo.png";
 import MusicPlayerCard from "../assets/png/Project/MusicPlayer.jpg";
 import CardGame from "../assets/png/Project/Card Game.png";
 import RockPaperScissors from "../assets/png/Project/Rock Paper Scissors.png";
-import weatherplatforms from "../assets/png/Project/weatherplatforms.png";
+import weatherplatforms from "../assets/png/Project/DoctorzBook.png";
 export const projectsData = [
   {
     id: 1,
